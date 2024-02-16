@@ -22,7 +22,7 @@ public class AppTest {
     public void generateMirthTransformerCode() {
         mainpackage.App.main(new String[]{
             "--map", "path/to/structureMap",
-            "--out", "path/to/output/generated/channel",
+            "--out", "path/to/output/generated/transformer.js",
         });
     }
 
