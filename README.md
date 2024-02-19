@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10678100.svg)](https://doi.org/10.5281/zenodo.10678100)
+
 # FML2Mirth
 
 *FML2Mirth* is a command line tool that can generate [*Mirth*](https://www.nextgen.com/solutions/interoperability/mirth-integration-engine/mirth-connect-downloads)-Channels from [FHIR-*StructureMaps*](http://hl7.org/fhir/R4B/structuremap.html), that transform an input structure (messages) to a output structure defined by the *StructureMap*.
