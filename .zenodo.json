@@ -1,0 +1,43 @@
+{
+  "license": "Apache-2.0",
+  "title": "FML2Mirth",
+  "keywords": ["HL7", "FHIR", "StructureMaps", "FHIR Mapping Language", "FML", "Mirth", "Laboratory Data", "Medical Informatics"],
+  "creators": [
+    {
+      "orcid": "0009-0002-5407-5254",
+      "name": "Kruse, Jesse",
+      "affiliation": "LADR Laboratory Group Dr. Kramer & Colleagues, Geesthacht, Germany"
+    }
+  ],
+  "contributors": [
+    {
+        "name": "Ulrich, Hannes",
+        "orcid": "0000-0002-8349-6798",
+        "affiliation": "Institute for Medical Informatics and Statistics, Kiel University, Germany and University Hospital Schleswig-Holstein, Campus Kiel, Germany",
+        "type": "Researcher"
+    },
+    {
+        "name": "Kock-Schoppenhauer, Ann-Kristin",
+        "orcid": "0000-0001-6685-4429",
+        "affiliation": "IT Center for Clinical Research, University of Lübeck, Germany",
+        "type": "Researcher"
+    },
+    {
+        "name": "Wiedekopf, Joshua",
+        "orcid": "0000-0002-9902-6459",
+        "affiliation": "IT Center for Clinical Research, University of Lübeck, Germany",
+        "type": "Researcher"
+    },
+    {
+        "name": "Ingenerf, Josef",
+        "orcid": "0000-0002-3274-8422",
+        "affiliation": "IT Center for Clinical Research, University of Lübeck, Germany",
+        "type": "Supervisor"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "itcrl"
+    }
+  ]
+}
